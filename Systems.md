@@ -1,2 +1,2 @@
 #軟體相容性
-支持Windows7
+支持Windows10
